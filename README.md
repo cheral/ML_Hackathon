@@ -3,6 +3,10 @@ This Repository contains code used in the 1st Lecture Series for ML Hackathon on
 
 ## Here are some Useful Resources
 
+**Introduction to Machine Learning**
+* [Introduction to ML slides](https://github.com/cheral/ML_Hackathon/blob/master/Introduction_to_ML.pdf)
+* [Beginner's Guide to Machine Learning Competitions](https://www.youtube.com/watch?v=ys2usamKyus&index=1&list=PL481jrWeQSa1RmUyZquUhL-Z6-QhpmxW7)
+
 **Classification:**
 * [Logistic Regression](https://www.youtube.com/watch?v=1ZzckGxT76g)
 * [Stochastic Gradient Descent](https://www.youtube.com/watch?v=UfNU3Vhv5CA)
